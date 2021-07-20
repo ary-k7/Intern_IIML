@@ -1,4 +1,4 @@
-# Intern_IIML
+# Internship_IIML
 Volatility based short strangle trading strategy
 This project is about volatility based short strangle trading startegies. The volatility is modelled using different methodologies(Average True Range(ATR), IV of ATM options, IVIX, and few other models) and compared to the standard IVIX model.
 The trades are executed on the first day of the monthly contract and held till the expiry to determine whether the options expire in the money or out of the money.
